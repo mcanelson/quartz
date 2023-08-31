@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: false,
     analytics: null,
-    baseUrl: "mcanelson.github.com/quartz",
+    baseUrl: "mcanelson.github.io/quartz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

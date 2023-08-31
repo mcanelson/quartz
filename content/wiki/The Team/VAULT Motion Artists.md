@@ -4,7 +4,7 @@ title: "VAULT Motion Artists"
 Name | Reel
 --|--
 Michael Armstrong | link
-Cody Beltram | https://vimeo.com/657511471
+Cody Beltram | [https://vimeo.com/657511471](https://vimeo.com/657511471)
 Adam Buritsch | link
 Jeremy Casper | link
 Carson Catlin | link

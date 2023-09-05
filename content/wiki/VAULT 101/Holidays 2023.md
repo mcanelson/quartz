@@ -13,7 +13,7 @@ title: "Holidays 2023 📆"
 
 ~~Monday-Tuesday, July 3 & 4, Independence Day~~
 
-Friday-Monday, September 1 & 4, Labor Day Weekend
+~~Friday-Monday, September 1 & 4, Labor Day Weekend~~
 
 Friday, November 10, Veteran’s Day Observed (for Vets and spouses of Vets)
 

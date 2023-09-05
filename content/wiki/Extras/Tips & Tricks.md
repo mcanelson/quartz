@@ -15,7 +15,7 @@ title: "Tips & Tricks 🪄"
 > 
 > To download more files, you just need to repeat steps 4, 5, 6.
 
-> [!tip]- Tik-Tok VO Generator
-> 
-> This website does text-to-speech using Tik-Tok voices.
-> [https://weilbyte.github.io/tiktok-tts/](https://weilbyte.github.io/tiktok-tts/)
+> [!tip]- Create a list of used media (ideal for Stock Footage usage)
+> 1. While in the correct sequence, go to Export > Avid Log Exchange.
+> 2. Then change that .ale extension to .xls.
+> 3. Open it up and there is a list of all used files names of video and audio.

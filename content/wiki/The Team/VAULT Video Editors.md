@@ -4,15 +4,15 @@ title: "VAULT Video Editors"
 Name | Reel
 --|--
 Bray Addison | [Reel](https://f.io/qYA3NCjC)
-Gabriella Aguilar | link
+Gabriella Aguilar |  
 Matias Canelson | [Reel](https://f.io/HMF5hl7f)
-Jake Farmer | link
+Jake Farmer |  
 Morgan Jefferson | [Reel](https://f.io/JZ0OXtAm)
-Lisa Markowitz | link
+Lisa Markowitz |  
 Kate McFerren | [Reel](https://youtu.be/T3RBV0IJHlk)
-Blair Stalder | link
-Peter Smith | link
-Jeff Stiles | link
+Blair Stalder |  
+Peter Smith |  
+Jeff Stiles |  
 
 **Contractors**
 

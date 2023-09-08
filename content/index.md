@@ -1,9 +1,9 @@
 ---
-title: "VAULT Digital Garden"
+title: "Welcome!"
 ---
 
-Welcome! This is our "catch-all" website, where you can find information about the most common topics related to our day-to-day activities. 
-We encourge to use the search option on the top right corner for faster results.
+This is our "catch-all" website, where you can find information about the most common topics related to our day-to-day activities. 
+We encourage to use the search option on the top right corner for faster results.
 
 
 **Basics**

@@ -1,5 +1,5 @@
 ---
-title: "VAULT Production"
+title: "Production"
 ---
 Name | Location
 --|--

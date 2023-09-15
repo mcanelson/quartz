@@ -1,5 +1,5 @@
 ---
-title: "VAULT Motion Artists"
+title: "Motion Artists"
 ---
 Name | Location | Reel
 --|--|--

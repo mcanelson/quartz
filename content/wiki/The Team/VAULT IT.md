@@ -1,5 +1,5 @@
 ---
-title: "VAULT IT"
+title: "IT"
 ---
 Name | Position | Mail
 --|--|--

@@ -1,5 +1,5 @@
 ---
-title: "VAULT Colorists"
+title: "Colorists"
 ---
 Name | Reel
 --|--

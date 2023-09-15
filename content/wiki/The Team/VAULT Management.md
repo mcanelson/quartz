@@ -1,5 +1,5 @@
 ---
-title: "VAULT Management"
+title: "Management"
 ---
 Name | Position
 --|--

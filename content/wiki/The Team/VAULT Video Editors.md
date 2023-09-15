@@ -1,5 +1,5 @@
 ---
-title: "VAULT Video Editors"
+title: "Video Editors"
 ---
 Name | Location | Reel
 --|--|--

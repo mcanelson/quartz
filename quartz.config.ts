@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "VAULT Digital Garden",
+    pageTitle: "VAULT",
     enableSPA: true,
     enablePopovers: false,
     analytics: null,

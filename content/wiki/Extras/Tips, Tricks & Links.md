@@ -1,5 +1,5 @@
 ---
-title: "Tips & Tricks 🪄"
+title: "Tips, Tricks & Links🪄"
 ---
 
 > [!tip]- How to download .m3u8 files
@@ -20,10 +20,10 @@ title: "Tips & Tricks 🪄"
 > 2. Then change that .ale extension to .xls.
 > 3. Open it up and there is a list of all used files names of video and audio.
 
-> [!Link] Tik Tok Specs for videos + Safe Area Graphic References.
+> [!NOTE] Tik Tok Specs for videos + Safe Area Graphic References.
 > https://ads.tiktok.com/help/article/tiktok-auction-in-feed-ads?lang=en
 > 
 
-> [!Link] Tik Tok Live Check Safe Area
+> [!NOTE] Tik Tok Live Check Safe Area
 > [https://ads.tiktok.com/toolbox/preview/#/](https://ads.tiktok.com/toolbox/preview/#/)
 > 

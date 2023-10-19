@@ -42,8 +42,8 @@ We encourage to use the search option on the top right corner for faster results
 
 **Extras**
 - [[wiki/Extras/Complementary Apps|Complementary Apps]]
-- [[wiki/Extras/Tips & Tricks|Tips & Tricks]] 🪄
-- [[AI Tools]] 🤖 
+- [[wiki/Extras/Tips, Tricks & Links|Tips, Tricks & Links]] 🪄
+- [[wiki/Extras/AI Tools]] 🤖 
 
 ---
 > [!info] VAULT IT Support

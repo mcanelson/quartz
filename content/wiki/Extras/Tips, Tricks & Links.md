@@ -24,6 +24,6 @@ title: "Tips, Tricks & Links🪄"
 > https://ads.tiktok.com/help/article/tiktok-auction-in-feed-ads?lang=en
 > 
 
-> [!NOTE] Tik Tok Live Check Safe Area
+> [!NOTE] Tik Tok Ad Preview Tool
 > [https://ads.tiktok.com/toolbox/preview/#/](https://ads.tiktok.com/toolbox/preview/#/)
 > 

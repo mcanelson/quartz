@@ -20,10 +20,10 @@ title: "Tips, Tricks & Links🪄"
 > 2. Then change that .ale extension to .xls.
 > 3. Open it up and there is a list of all used files names of video and audio.
 
-> [!NOTE] Tik Tok Specs for videos + Safe Area Graphic References.
+> [!NOTE]- Tik Tok Specs for videos + Safe Area Graphic References.
 > https://ads.tiktok.com/help/article/tiktok-auction-in-feed-ads?lang=en
 > 
 
-> [!NOTE] Tik Tok Ad Preview Tool
+> [!NOTE]- Tik Tok Ad Preview Tool
 > [https://ads.tiktok.com/toolbox/preview/#/](https://ads.tiktok.com/toolbox/preview/#/)
 > 

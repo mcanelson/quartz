@@ -1,12 +1,12 @@
 ---
 title: "Complemetary Apps"
 ---
-- 4K Video Downloader
-- MediaInfo
-- Handbrake
-- NameChanger (Mac)
-- EasyFind (Mac)
-- OmniDiskSweeper (Mac)
-- Gifski (Mac): to create GIFs from videos.
-- Evercast: software for live editing sessions.
-- NDI Tools: software for live editing sessions.
+- 4K Video Downloader (Free up to 30 videos per day)
+- MediaInfo (Paid)
+- Handbrake (Mac/PC - Free)
+- NameChanger (Mac - Free)
+- EasyFind (Mac - Feee)
+- OmniDiskSweeper (Mac - Free)
+- Gifski (Mac - Free): to create GIFs from videos.
+- Evercast: software to host live editing sessions.
+- NDI Tools: software for to broadcast your Premiere video feed on live editing sessions.

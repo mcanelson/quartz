@@ -2,7 +2,7 @@
 title: "Tips, Tricks & Links🪄"
 ---
 
-> [!tip]- How to download .m3u8 files
+> [!info]- How to download .m3u8 files
 > 1) Get the URL of the video you want to download and paste it somewhere handy.
 > 2) Download ffmpeg from here >  [https://evermeet.cx/ffmpeg/](https://evermeet.cx/ffmpeg/) (top right column).
 > 3) Double click the zip to get the file and copy it to the Applications folder.
@@ -15,15 +15,15 @@ title: "Tips, Tricks & Links🪄"
 > 
 > To download more files, you just need to repeat steps 4, 5, 6.
 
-> [!tip]- Create a list of used media (ideal for Stock Footage usage)
+> [!info]- Create a list of used media (ideal for Stock Footage usage)
 > 1. While in the correct sequence, go to Export > Avid Log Exchange.
 > 2. Then change that .ale extension to .xls.
 > 3. Open it up and there is a list of all used files names of video and audio.
 
-> [!NOTE]- Tik Tok Specs for videos + Safe Area Graphic References.
+> [!info]- Tik Tok Specs for videos + Safe Area Graphic References.
 > https://ads.tiktok.com/help/article/tiktok-auction-in-feed-ads?lang=en
 > 
 
-> [!NOTE]- Tik Tok Ad Preview Tool
+> [!info]- Tik Tok Ad Preview Tool
 > [https://ads.tiktok.com/toolbox/preview/#/](https://ads.tiktok.com/toolbox/preview/#/)
 > 

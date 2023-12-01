@@ -11,10 +11,10 @@ Carson Catlin | Kansas |
 Tim Chong | Seattle | [Reel](https://vimeo.com/503301825)
 Shane Finley | San Francisco |
 Mike Fischer |  San Francisco |
-Hensel Guerra | New York | [Reel](https://vimeo.com/183390446)
 Chris Guy |  Chicago |
 Zach Janky | Kansas | 
 Hagop Kaneboughazian | San Francisco |
+Gregory Kaufman | ?? | 
 Scotty McCarthy |Kansas | [Reel](https://f.io/q_oH4wT3)
 Meghann Miller | Kansas |  
 Hovelyn Peñas |  San Francisco |
@@ -26,6 +26,6 @@ Joel Sigua | San Francisco |
 Patrick Stone | Kansas |  
 Sean Vonlembke* | New York | [Reel](https://vimeo.com/450133249)
 Jeremy Weichsel | San Francisco | 
-Kim Weiner |  New York | 
+Kim Weiner | New York | 
 
 *Also does editorial work.

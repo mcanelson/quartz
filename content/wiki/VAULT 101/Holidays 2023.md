@@ -15,8 +15,8 @@ title: "Holidays 2023 📆"
 
 ~~Friday-Monday, September 1 & 4, Labor Day Weekend~~
 
-Friday, November 10, Veteran’s Day Observed (for Vets and spouses of Vets)
+~~Friday, November 10, Veteran’s Day Observed (for Vets and spouses of Vets)~~
 
-Thursday-Friday, November 23 & 24, Thanksgiving
+~~Thursday-Friday, November 23 & 24, Thanksgiving~~
 
 Friday-Monday (7 working days), December 22 through January 1, 2024, Holiday Break

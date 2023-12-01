@@ -3,7 +3,6 @@ title: "Post-Producers"
 ---
 Name | Location
 --|--
-Oliver Daly | San Francisco
 Kirin Dowden | Kansas
 Marni Dworkin | Seattle
 Sebastian Greene | New York

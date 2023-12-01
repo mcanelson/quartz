@@ -10,7 +10,7 @@ Open and click on automatic setup, it’ll ask you to log in from a browser.
 
 > [!info]
 > 
-> If you don't have credentials and the license, please reach out [[wiki/VAULT 101/Key Contacts#^087fb8|Charlie Parker]].
+> If you don't have credentials and the license, please reach out [[VAULT/VAULT 101/Key Contacts#^087fb8|Charlie Parker]].
 
 - For Macs, download license: Mac License. Then, in Jump Desktop, click on the free trial link in the upper right corner (tiny white text above the search bar) and import the license. 
 

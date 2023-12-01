@@ -10,4 +10,4 @@ Step 2 – Select the first file of footage list. Click “Attach.”
 
 Step 3 – Use the the “Search” button or search manually to find the corresponding RAW footage. Click “Okay” once selected. It should connect to all footage. If some remain unlinked, re-do this step with those files.
 
-NEXT: [[wiki/Advanced/Proxy workflow/Proxy Settings]]
+NEXT: [[VAULT/Advanced Guides/Editorial/Proxy workflow/Proxy Settings]]

@@ -1,7 +1,7 @@
 ---
 title: "Stock Footage"
 ---
-Reach out to the [[wiki/VAULT 101/Key Contacts|head of your department]] if you need credentials to download unwatermarked footage from one of these VMLY&R partnership providers:
+Reach out to the [[VAULT/VAULT 101/Key Contacts|head of your department]] if you need credentials to download unwatermarked footage from one of these VMLY&R partnership providers:
 
 - [Shutterstock](https://enterprise.shutterstock.com/)
 - [Getty Images](https://www.gettyimages.com)

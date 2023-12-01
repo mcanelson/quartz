@@ -7,48 +7,48 @@ We encourage to use the search option on the top right corner for faster results
 
 
 **Basics**
-- [[wiki/VAULT 101/Key Contacts]]
-- [[wiki/VAULT 101/Servers]] 
-- [[wiki/VAULT 101/Folder structure]]
-- [[wiki/VAULT 101/Sequence Naming]]
-- [[wiki/VAULT 101/Slate]] 🎬
-- [[wiki/VAULT 101/Farmer's Wife]] 👩‍🌾
-- [[wiki/VAULT 101/Timesheets]] 😭
-- [[wiki/VAULT 101/Holidays 2023]] 📆
+- [[VAULT/VAULT 101/Key Contacts]]
+- [[VAULT/VAULT 101/Servers]] 
+- [[VAULT/VAULT 101/Folder structure]]
+- [[VAULT/VAULT 101/Sequence Naming]]
+- [[VAULT/VAULT 101/Slate]] 🎬
+- [[VAULT/VAULT 101/Farmer's Wife]] 👩‍🌾
+- [[VAULT/VAULT 101/Timesheets]] 😭
+- [[VAULT/VAULT 101/Holidays 2023]] 📆
 
 **3rd Party Services**
-- [[wiki/Services/Slack]]
-- [[wiki/Services/frameIO]]
-- [[wiki/Services/Stock Footage]]
-- [[wiki/Services/JumpDesktop]]
-- [[wiki/Services/Egnyte]]
-- [[wiki/Services/CatDV]]
+- [[VAULT/Services/Slack]]
+- [[VAULT/Services/frameIO]]
+- [[VAULT/Services/Stock Footage]]
+- [[VAULT/Services/JumpDesktop]]
+- [[VAULT/Services/Egnyte]]
+- [[VAULT/Services/CatDV]]
 
 **The Team**
-- [[wiki/The Team/VAULT Management|Management 🧐📈]]
-- [[wiki/The Team/VAULT Production|Production 🎬📹]]
-- [[wiki/The Team/VAULT Post-Producers|Post-Producers 👩‍💻👨‍💻]]
-- [[wiki/The Team/VAULT Video Editors|Video Editors 🎞️✂️]]
-- [[wiki/The Team/VAULT Motion Artists|Motion Artists 👩‍🎨👨‍🎤]]
-- [[wiki/The Team/VAULT Colorists|Colorists 🖲️🖲️🖲️]]
-- [[wiki/The Team/VAULT Audio Engineers|Audio Engineers 🎚️🎧]]
-- [[wiki/The Team/VAULT IT|IT 💻🥷]]
+- [[VAULT/The Team/VAULT Management|Management 🧐📈]]
+- [[VAULT/The Team/VAULT Production|Production 🎬📹]]
+- [[VAULT/The Team/VAULT Post-Producers|Post-Producers 👩‍💻👨‍💻]]
+- [[VAULT/The Team/VAULT Video Editors|Video Editors 🎞️✂️]]
+- [[VAULT/The Team/VAULT Motion Artists|Motion Artists 👩‍🎨👨‍🎤]]
+- [[VAULT/The Team/VAULT Colorists|Colorists 🖲️🖲️🖲️]]
+- [[VAULT/The Team/VAULT Audio Engineers|Audio Engineers 🎚️🎧]]
+- [[VAULT/The Team/VAULT IT|IT 💻🥷]]
 
 **Advanced workflows**
-- [[Producers User Guide]]
-- [[Editorial User Guides]]
-- [[Motion Graphics User Guides]]
-- [[3D User Guides]] 
+- [[VAULT/Advanced Guides/Producers User Guide]]
+- [[VAULT/Advanced Guides/Editorial User Guides]]
+- [[VAULT/Advanced Guides/Motion Graphics User Guides]]
+- [[VAULT/Advanced Guides/3D User Guides]] 
 
 **Extras**
-- [[wiki/Extras/Complementary Apps|Complementary Apps]]
-- [[wiki/Extras/Tips, Tricks & Links|Tips, Tricks & Links]] 🪄
-- [[wiki/Extras/AI Tools]] 🤖 
+- [[VAULT/Extras/Complementary Apps|Complementary Apps]]
+- [[VAULT/Extras/Tips, Tricks & Links|Tips, Tricks & Links]] 🪄
+- [[VAULT/Extras/AI Tools]] 🤖 
 
 ---
 > [!info] VAULT IT Support
 > 
-> For technical support related to VAULT, please reach out to the [[wiki/The Team/VAULT IT|VAULT IT Team]].
+> For technical support related to VAULT, please reach out to the [[VAULT/The Team/VAULT IT|VAULT IT Team]].
 
 > [!info] VMLY&R IT Support
 > 

@@ -5,7 +5,7 @@ You can access to it by logging in at http://catdv.vml.com
 
 > [!info]
 > 
-> If you don't have credentials, please reach out [[wiki/VAULT 101/Key Contacts#^087fb8|Charlie Parker]].
+> If you don't have credentials, please reach out [[VAULT/VAULT 101/Key Contacts#^087fb8|Charlie Parker]].
 
 CatDV is our online video database. 
 

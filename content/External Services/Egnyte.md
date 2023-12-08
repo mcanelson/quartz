@@ -7,4 +7,4 @@ We use Egnyte to share files with people/companies outside VAULT who has no acce
 
 > [!info]
 > 
-> If you don't have credentials, please reach out [[VAULT/VAULT 101/Key Contacts#^087fb8|Charlie Parker]].
+> If you don't have credentials, please reach out [[VAULT 101/Key Contacts#^087fb8|Charlie Parker]].

@@ -1,7 +1,7 @@
 ---
 title: "Folder structure"
 ---
-All VAULT [[VAULT/The Team/VAULT Motion Artists|Motion Artists]] and [[VAULT/The Team/VAULT Video Editors|Video Editors]] have to work from the same folder structure.
+All VAULT [[The Team/VAULT Motion Artists|Motion Artists]] and [[The Team/VAULT Video Editors|Video Editors]] have to work from the same folder structure.
 [Click here to download it](https://github.com/mcanelson/quartz/blob/0d424c0760d9348f1b8ccdaf0e10e98fdd5f65a2/content/_VAULT_DefaultProjects_2023.zip).
 
 Unzip the file inside the main client folder on the server and rename the root folder (VAULT_DefaultProjects_2023) with the name of the project you are going to work on.

@@ -18,4 +18,4 @@ Step 2 – Click the checkmark box next to “Ingest”. Use the drop down to se
 
 If issues arise, a new preset can be created for future proxy exports. Alternatively, although not ideal, Media Encoder can be used directly to export proxy files. See “Export Settings.“
 
-NEXT: [[VAULT/Advanced Guides/Editorial/Proxy workflow/Linking overview]]
+NEXT: [[Advanced Guides/Editorial/Proxy workflow/Linking overview]]

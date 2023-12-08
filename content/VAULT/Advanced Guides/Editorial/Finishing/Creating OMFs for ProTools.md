@@ -9,26 +9,16 @@ tag: editorial
 
 A reference video is an export of the offline edit that is used as a reference during audio mix, color, VFX, and conform. It includes a 2-pop and burned-in timecode. You can skip this step if you have already created one. 
 
--   Duplicate the sequence and rename it with the suffix "-REF"
-    
--   In the timeline window, right-click the "-REF" sequence tab and select "Start Time…" from the dropdown menu. 
-    
--   In the pop-up window, type in 00:59:58:00.
-    
--   In the sequence, move the first frame of the edit to 01:00:00:00.
-    
--   At 00:59:58:00, overwrite exactly 1 frame of Bars and Tone.
-    
--   Set your In/Out for the entire sequence and open the Export menu. 
-    
--   Under the Export menu's effects tab, check the Timecode Overlay box.
-    
--   Under Timecode Overlay, set Time Source to Media File. This will make the burn-in timecode match the sequence timecode.
-    
--   Set your export codec to h.264. Match the video settings to your sequence settings.
-    
--   Export the video.
-    
+- Duplicate the sequence and rename it with the suffix "-REF" 
+- In the timeline window, right-click the "-REF" sequence tab and select "Start Time…" from the dropdown menu. 
+- In the pop-up window, type in 00:59:58:00.
+- In the sequence, move the first frame of the edit to 01:00:00:00.
+- At 00:59:58:00, overwrite exactly 1 frame of Bars and Tone.
+- Set your In/Out for the entire sequence and open the Export menu. 
+- Under the Export menu's effects tab, check the Timecode Overlay box.
+- Under Timecode Overlay, set Time Source to Media File. This will make the burn-in timecode match the sequence timecode.
+- Set your export codec to h.264. Match the video settings to your sequence settings.
+- Export the video.
 
 # Step 02 - Creating an OMF
 

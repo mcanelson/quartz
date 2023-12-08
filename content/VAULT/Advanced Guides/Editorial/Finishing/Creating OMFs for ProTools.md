@@ -24,36 +24,21 @@ A reference video is an export of the offline edit that is used as a reference d
 
 An OMF is a file that is used to send the audio from a Premiere sequence to an audio mixing program such as ProTools.
 
--   Duplicate the RefPic sequence and rename it by replacing "-REF" with "-MixPrep"
-    
--   Delete any unused/muted audio clips.
-    
--   Un-nest any nested audio.
-    
--   Make sure your audio tracks are labeled and organized by type; VO, Dialog, SFX, Ambient, Music, etc.
-    
--   Delete all unused audio tracks.
-    
--   Set In/Out for the whole sequence and go to File—> Export—> OMF
-    
--   In the OMF pop-up window: 
-    
+- Duplicate the RefPic sequence and rename it by replacing "-REF" with "-MixPrep"
+- Delete any unused/muted audio clips.
+- Un-nest any nested audio.
+- Make sure your audio tracks are labeled and organized by type; VO, Dialog, SFX, Ambient, Music, etc.
+- Delete all unused audio tracks.
+- Set In/Out for the whole sequence and go to File—> Export—> OMF
+- In the OMF pop-up window: 
+	- Sample Rate: 48000
+	- Bits per Sample: 24
+	- Files: Embed Audio
+	- Render: Trim Audio Files
+	- Handle Frames: 72
+	- Include Pan.
 
--   Sample Rate: 48000
-    
--   Bits per Sample: 24
-    
--   Files: Embed Audio
-    
--   Render: Trim Audio Files
-    
--   Handle Frames: 72
-    
--   Include Pan.
-    
-
--   Click OK and select where you want the OMF to save to. A metadata text file will be created alongside the OMF file.
-    
+Click OK and select where you want the OMF to save to. A metadata text file will be created alongside the OMF file.
 
 # Step 03 - Sending Files to the Audio Engineer
 
@@ -71,16 +56,11 @@ If you received the mix in a video file, that audio is compressed and should not
 
 # Step 05 - Syncing the Mix to the Conformed Picture
 
--   Take the conformed sequence and add a 2-pop if it doesn’t already have one.
-    
--   Delete all audio in the sequence.
-    
--   Under Audio Track Mixer, remove any and all audio track effects. Make sure the pan and track sliders are set to 0.0. This step is crucial because if these settings are modified, it will mess up the mix!
-    
--   Import your mixed audio file and sync it to the sequence by syncing the mix's audio "pop" to the picture's 1 frame of color bars.
-    
--   Delete all unused audio tracks.
-    
+- Take the conformed sequence and add a 2-pop if it doesn’t already have one.
+- Delete all audio in the sequence.
+- Under Audio Track Mixer, remove any and all audio track effects. Make sure the pan and track sliders are set to 0.0. This step is crucial because if these settings are modified, it will mess up the mix!
+- Import your mixed audio file and sync it to the sequence by syncing the mix's audio "pop" to the picture's 1 frame of color bars.
+- Delete all unused audio tracks.
 
 Make sure to only use the Mix WAV file for the conform. Putting all the splits together does not equal a mix. Splits are for archiving and for making additional edits after the mix session. If you use the splits for additional editing, be sure to send the audio engineer updated prep so that they can make changes and provide you with a new mix.
 

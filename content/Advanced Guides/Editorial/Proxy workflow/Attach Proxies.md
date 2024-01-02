@@ -4,7 +4,7 @@ tag: editorial
 ---
 When receiving RAW and previously created proxies, first import the RAW, then link to the proxies using this method.
 
-Step 1 – Select desired RAW footage files , right click, and select “Proxy” -> “Attach Proxies...”
+Step 1 – Select desired RAW footage files , right click, and select “Proxy” → “Attach Proxies...”
 
 Step 2 – Select the first file of footage list. Click “Attach.”
 

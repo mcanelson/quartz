@@ -7,7 +7,7 @@ title: "Editorial User Guides"
 **Proxy Workflow**
 - [[Advanced Guides/Editorial/Proxy workflow/Preparation]]
 - [[Advanced Guides/Editorial/Proxy workflow/Proxy Creation]]
-- [[Advanced Guides/Editorial/Proxy workflow/Linking overview]]
+- [[Advanced Guides/Editorial/Proxy workflow/Toggle between RAW and Proxy sources]]
 - [[Advanced Guides/Editorial/Proxy workflow/Attach Proxies]]
 - [[Advanced Guides/Editorial/Proxy workflow/Attach RAW]]
 - [[Advanced Guides/Editorial/Proxy workflow/New Preset]]

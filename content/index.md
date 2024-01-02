@@ -14,7 +14,7 @@ We encourage to use the search option on the top right corner for faster results
 - [[VAULT 101/Slate]] 🎬
 - [[VAULT 101/Farmer's Wife]] 👩‍🌾
 - [[VAULT 101/Timesheets]] 😭
-- [[VAULT 101/Holidays 2023]] 📆
+- [[VAULT 101/Holidays 2024]] 📆
 
 **3rd Party Services**
 - [[External Services/Slack]]

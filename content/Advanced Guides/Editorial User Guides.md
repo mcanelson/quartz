@@ -2,7 +2,7 @@
 title: "Editorial User Guides"
 ---
 **Basic information**
-- [[private/Definitions/Frame sizes|Recommended frame sizes]]
+- [[Extras/Frame sizes|Recommended frame sizes]]
 
 **Proxy Workflow**
 - [[Advanced Guides/Editorial/Proxy workflow/Preparation]]

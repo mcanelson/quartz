@@ -8,7 +8,7 @@ Location: Set the output to the “\_proxies” folder.
 
 Format & Preset – Use QuickTime to create “Apple ProRes 422 Proxy.” Select “Match Source” to automatically set the below settings:
 
-Pixel [[private/Definitions/Frame sizes|Frame sizes]] // Width & Height – This ratio should match the raw, but as a lower resolution. For example: 3840 x 2160 is a 16:9 ratio. Set the proxy to a lower resolution while maintaining the 16:9 ratio, like 1920 x 1080. Note: The resolution is usually locked within it’s ratio. Click the checkbox and/or chain icon to unlock.
+Pixel [[Extras/Frame sizes|Frame sizes]] // Width & Height – This ratio should match the raw, but as a lower resolution. For example: 3840 x 2160 is a 16:9 ratio. Set the proxy to a lower resolution while maintaining the 16:9 ratio, like 1920 x 1080. Note: The resolution is usually locked within it’s ratio. Click the checkbox and/or chain icon to unlock.
 
 Frame Rate – Match the raw footage – see source info.
 

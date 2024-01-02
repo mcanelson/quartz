@@ -13,4 +13,4 @@ To log into a server on a Mac:
 - Option 2: Use the **ShareBrowser** app.
 
 To log into a server on Windows:
-🤷‍♂️🤷‍♀️
+- Go to Windows Explorer address bar and enter the server address: //10.10.10.xx

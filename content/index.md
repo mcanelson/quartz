@@ -8,18 +8,21 @@ We encourage to use the search option on the top right corner for faster results
 
 **Basics**
 - [[VAULT 101/Key Contacts]]
+- [[VAULT 101/Email]]
+- [[VAULT 101/Internal Communications]]
+- [[VAULT 101/Farmer's Wife]] 👩‍🌾
+- [[VAULT 101/Timesheets]] 😭
 - [[VAULT 101/Servers]] 
 - [[VAULT 101/Folder structure]]
 - [[VAULT 101/Sequence Naming]]
-- [[VAULT 101/Slate]] 🎬
-- [[VAULT 101/Farmer's Wife]] 👩‍🌾
-- [[VAULT 101/Timesheets]] 😭
+- [[private/Slates]] 🎬
 - [[VAULT 101/Holidays 2024]] 📆
+
 
 **3rd Party Services**
 - [[External Services/Slack]]
 - [[External Services/frameIO]]
-- [[External Services/Stock Footage]]
+- [[External Services/Stock Sites]]
 - [[External Services/JumpDesktop]]
 - [[External Services/Egnyte]]
 - [[External Services/CatDV]]

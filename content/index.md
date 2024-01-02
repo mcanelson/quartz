@@ -12,19 +12,18 @@ We encourage to use the search option on the top right corner for faster results
 - [[VAULT 101/Internal Communications]]
 - [[VAULT 101/Farmer's Wife]] 👩‍🌾
 - [[VAULT 101/Timesheets]] 😭
-- [[VAULT 101/Servers]] 
+- [[VAULT 101/Servers]]
 - [[VAULT 101/Folder structure]]
 - [[VAULT 101/Sequence Naming]]
-- [[private/Slates]] 🎬
 - [[VAULT 101/Holidays 2024]] 📆
 
 
 **3rd Party Services**
-- [[External Services/Slack]]
 - [[External Services/frameIO]]
 - [[External Services/Stock Sites]]
 - [[External Services/JumpDesktop]]
 - [[External Services/Egnyte]]
+- [[External Services/OneDrive]]
 - [[External Services/CatDV]]
 
 **The Team**

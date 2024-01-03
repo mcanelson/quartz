@@ -15,9 +15,11 @@ title: "Editorial User Guides"
 - [[Advanced Guides/Editorial/Proxy workflow/Troubleshooting]]
 
 **Exporting to Online finishing**
-- [[Advanced Guides/Editorial/Finishing/Exporting edits for Color Grading]]
+- [[Advanced Guides/Editorial/Finishing/Exporting a timeline for Color Grading]]
+- [[Advanced Guides/Editorial/Finishing/Exporting a stringout for Color Grading]]
 - [[Advanced Guides/Editorial/Finishing/Creating OMFs for ProTools]]
 - [[Advanced Guides/Editorial/Finishing/Creating AAFs for ProTools]]
+- [[Advanced Guides/Editorial/Finishing/Color Conform]]
 
 **Mastering for delivery**
 - [[Advanced Guides/Editorial/Mastering/Tech Specs for Deliveries]]

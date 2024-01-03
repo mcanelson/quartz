@@ -1,6 +1,8 @@
 ---
-title: "Creating AAFs for ProTools"
-tag: editorial
+title: Creating AAFs for ProTools
+tags:
+  - editorial
+  - "#audio"
 ---
 > [!warning] NEEDS REVIEW
 > This is a copy/paste from Kyle's workflow. Needs a review for minimal adjustment.

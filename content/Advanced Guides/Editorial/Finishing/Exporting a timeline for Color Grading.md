@@ -6,7 +6,6 @@ tags:
 ###### STEP 1 - EXPORT A REFERENCE
 
 In Premiere, export a reference video of the approved edit as QuickTime ProRes LT to 02_Assets/05_Color/00_ColorPrep. Add the suffix “\_PicRef”. See page 3 & 4 for details.
-
 ###### STEP 2 - PREPARE THE SEQUENCE
 
 A – Duplicate the approved sequence(s) and add the suffix “\_ColorPrep”. Use this to prepare the files.
@@ -22,21 +21,18 @@ All in-camera color LUTs must be removed from the source clip in the “Source E
 
 E – Remove all speed duration changes or any keyframes from clips.
 
-SPEED NOTE:  
-During the edit process, it is recommended to nest any clips before adding time remapping keyframes or any flat speed % adjustments (e.g., 200%). This will ensure that there are no speed interpolation/frame rate issues once the graded clips are received back from the colorist.
+> [!NOTE] SPEED NOTE:  
+> During the edit process, it is recommended to nest any clips before adding time remapping keyframes or any flat speed % adjustments (e.g., 200%). This will ensure that there are no speed interpolation/frame rate issues once the graded clips are received back from the colorist.
 
 F – Highlight all clips, right click, and select “Set to Frame Size.”
 
 G – All remaining clips that do not have a gray “fx” box in the corner must be looked at individually to remove any other effects.
-
 ###### STEP 3 - EXPORT XML
 
 Select the sequence, and export to the 00_ColorPrep folder using “File > Export > Final Cut Pro XML”. If there are multiple rounds of prep, make subfolders with dates. If any elements can’t be translated, a text file report will be placed next to the XML so you can review timecodes of clips that have issues.
-
 ###### STEP 4 - EXPORT XML REFERENCE
 
 Then, export the same timeline that matches the XML exactly for the colorist as QuickTime ProRes LT. Export to the same ColorPrep folder and add the suffix “\_ColorXMLRef”.
-
 ###### STEP 5 - OUTSIDE COLORIST
 
 If working with an outside colorist, prepare the raw files to send along. IMPORTANT: Complete the detailed steps in the next section, page 12, before proceeding.

@@ -7,7 +7,7 @@ tags:
 > [!warning] NEEDS REVIEW
 > This is a copy/paste from Kyle's workflow. Needs a review for minimal adjustment.
 
-# Step 01 - Creating a Reference Video
+###### Step 01 - Creating a Reference Video
 
 A reference video is an export of the offline edit that is used as a reference during audio mix, color, VFX, and conform. It includes a 2-pop and burned-in timecode. You can skip this step if you have already created one. 
 
@@ -22,7 +22,7 @@ A reference video is an export of the offline edit that is used as a reference d
 - Set your export codec to h.264. Match the video settings to your sequence settings.
 - Export the video.
 
-# Step 02 - Creating an AAF
+###### Step 02 - Creating an AAF
 
 An AAF is a file that is used to send the audio from a Premiere sequence to an audio mixing program such as ProTools.
 
@@ -49,7 +49,7 @@ The AAF Export Settings window will pop-up and this is how it should look like a
 Click OK and select where you want the OMF to save to. A metadata text file will be created alongside the OMF file.
 
 
-# Step 03 - Sending Files to the Audio Engineer
+###### Step 03 - Sending Files to the Audio Engineer
 
 By following the above steps, you will have created 3 files; 1 reference video, 1 AAF, and 1 text file with metadata. Send these 3 files to the audio engineer.
 
@@ -57,13 +57,13 @@ If you used any MP3s or watermarked audio in the edit, make sure to send the hi-
 
 This is also a good time to communicate with the engineer. Ask to see if they need anything else or have any questions.
 
-# Step 04 - Receiving Mix and Splits
+###### Step 04 - Receiving Mix and Splits
 
 Once the audio engineer has done their magic and the mix is client approved, the audio engineer should send you the Mix and Splits as WAV files.
 
 If you received the mix in a video file, that audio is compressed and should not be used. Ask the engineer to send you the uncompressed WAV files.
 
-# Step 05 - Syncing the Mix to the Conformed Picture
+###### Step 05 - Syncing the Mix to the Conformed Picture
 
 - Take the conformed sequence and add a 2-pop if it doesn’t already have one.
 - Delete all audio in the sequence.
@@ -73,7 +73,7 @@ If you received the mix in a video file, that audio is compressed and should not
 
 Make sure to only use the Mix WAV file for the conform. Putting all the splits together does not equal a mix. Splits are for archiving and for making additional edits after the mix session. If you use the splits for additional editing, be sure to send the audio engineer updated prep so that they can make changes and provide you with a new mix.
 
-# Step 06 - Quality Control
+###### Step 06 - Quality Control
 
 Playback the sequence with the newly synced audio mix to make sure everything is correct. If there is a sync problem or other audio mistakes, double-check to make sure Step 05 was done correctly.
 

@@ -14,3 +14,7 @@ Once inside your account, you need to add yourself to the Team you need to work 
 Now you can click on the 'Back to App' button on the top left corner and the Wendy's team and all their projects will show up. **Check with your producer the name and location of the project you need to work on.**
 
 **To leave a team**, is the same procedure as to join, but you just click on the 'Leave' instead of 'Join'.
+
+> [!TIP]- Import comments into Premiere
+> You can link Premiere sequences to videos previously uploaded to frameIO and import comments as markers. Follow the link for more info: [Import comments into Premiere
+> ](https://support.frame.io/en/articles/255191-import-comments-into-premiere)

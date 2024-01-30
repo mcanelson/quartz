@@ -3,7 +3,7 @@ title: Stock Sites
 ---
 Reach out to the [[VAULT 101/Key Contacts|head of your department]] if you need credentials to download non-watermarked footage from one of these VML partnership providers:
 
-Approved Stock Houses (Last Updated 08/12/2020)
+###### Approved Stock Houses (Last Updated 08/12/2020)
 
 - [Shutterstock](https://enterprise.shutterstock.com/)
 - [Getty Images](https://www.gettyimages.com)
@@ -13,7 +13,8 @@ Approved Stock Houses (Last Updated 08/12/2020)
 - [Adobe Stock](https://stock.adobe.com)
 - [Stocksy](https://www.stocksy.com)
 
-Approved Production/Stock Music Libraries (Last Updated May 2021)
+###### Approved Production/Stock Music Libraries (Last update: May 2021)
+
 - APM
 - **Alibi**
 - Asche + Spencer
@@ -39,3 +40,5 @@ Approved Production/Stock Music Libraries (Last Updated May 2021)
 - Sounddogs
 
 TikTok Approved Companies in **bold**
+
+For further assistance call: [1-800-BBB-Roll](https://www.youtube.com/watch?v=SItFvB0Upb8).

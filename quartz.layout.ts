@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      VMLYR: "https://www.vmlyr.com",
+      VML: "https://www.vml.com",
       VAULT: "https://www.instagram.com/vault_vmlyr",
     },
   }),

@@ -51,7 +51,7 @@ We encourage to use the search option for faster results.
 > 
 > For technical support related to VAULT, please reach out to the [[The Team/VAULT IT|VAULT IT Team]].
 
-> [!info] VMLY&R IT Support
+> [!info] VML IT Support
 > 
 > For technical support requests or urgent incidents please open a ticket through any of the following options: 
 > 

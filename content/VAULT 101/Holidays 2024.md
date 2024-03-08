@@ -3,9 +3,9 @@ title: Holidays 2024 📆
 ---
 ~~Monday, January 1, NYD Observed~~
 
-Monday, January 15, Martin Luther King Jr. Day
+~~Monday, January 15, Martin Luther King Jr. Day~~
 
-Monday, February 19, Presidents Day
+~~Monday, February 19, Presidents Day~~
 
 Friday-Monday, May 24 & 27, Memorial Day Weekend
 

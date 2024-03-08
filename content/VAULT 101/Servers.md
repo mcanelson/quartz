@@ -1,7 +1,7 @@
 ---
 title: "Servers"
 ---
-VAULT has 4 servers:
+VAULT has 3 servers:
 
 - [[Servers/Project_Facilis|Project_Facilis]]: smb://10.10.10.75
 - [[Servers/Vault_One|Vault_One]]: smb://10.10.10.78
